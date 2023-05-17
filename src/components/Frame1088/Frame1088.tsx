@@ -81,7 +81,7 @@ export const Frame1088: FC<Props> = memo(function Frame1088(props = {}) {
             </div>
             <div className={classes.frame1033}>
               <div className={classes.creator}>Создатель</div>
-              <div className={classes.unnamed4}>Мария Третьякова</div>
+              <div className={classes.unnamed4}>Ирина Макеева</div>
             </div>
           </div>
         </div>

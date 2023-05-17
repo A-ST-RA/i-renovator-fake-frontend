@@ -42,7 +42,7 @@ export const Group1: FC<Props> = memo(function Group1(props = {}) {
       <div className={classes.ellipse1}>
         <Ellipse1Icon className={classes.icon7} />
       </div>
-      <div className={classes.unnamed}>Мария Третьякова</div>
+      <div className={classes.unnamed}>Владислав Бахмацкий</div>
       {/* <div className={classes._25777}>25 777 голосов</div> */}
       <div className={classes._1}>
         <p className={classes.labelWrapper}>
