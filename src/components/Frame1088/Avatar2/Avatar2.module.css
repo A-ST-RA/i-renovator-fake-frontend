@@ -1,0 +1,18 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 48px;
+  height: 48px;
+  align-items: flex-start;
+  border-radius: 48px;
+  background-color: #9757d7;
+  overflow: hidden;
+}
+.pexelsGabbyK52737171 {
+  position: absolute;
+  left: -1.3952%;
+  right: -1.3952%;
+  top: -22.9167%;
+  bottom: -31.25%;
+}

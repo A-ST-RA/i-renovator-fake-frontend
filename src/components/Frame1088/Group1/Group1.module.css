@@ -1,0 +1,150 @@
+.iconsPlusSquareLine.iconsPlusSquareLine {
+  left: 81.25%;
+  right: 6.25%;
+  top: 5.2%;
+  bottom: 85.2%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.iconsCupLine.iconsCupLine {
+  left: 8.3333%;
+  right: 83.3333%;
+  top: 6.8%;
+  bottom: 86.8%;
+  width: initial;
+  height: initial;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 160px;
+  top: 1341px;
+  width: 192px;
+  height: 250px;
+  align-items: flex-start;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 15px;
+  background-color: #e9e9e9;
+}
+.rectangle5 {
+  position: absolute;
+  left: 5.2083%;
+  right: 68.75%;
+  top: 4.8%;
+  bottom: 85.2%;
+  border-radius: 24px;
+  background-color: #3772ff;
+}
+.line1 {
+  position: absolute;
+  left: 5.2083%;
+  right: 7.2917%;
+  top: 20.8%;
+  bottom: 79.2%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse1 {
+  position: absolute;
+  left: 33.3333%;
+  right: 32.8125%;
+  top: 36.8%;
+  bottom: 37.2%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.unnamed {
+  color: #122561;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.6667%;
+  right: 16.1458%;
+  top: 78.8%;
+  bottom: 13.2%;
+  flex-direction: column;
+}
+._25777 {
+  color: #122561;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.0833%;
+  right: 27.0833%;
+  top: 88.4%;
+  bottom: 3.6%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._1 {
+  position: absolute;
+  left: 18.2292%;
+  right: 72.3958%;
+  top: 6%;
+  bottom: 86.8%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 12px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #e9e9e9;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #e9e9e9;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

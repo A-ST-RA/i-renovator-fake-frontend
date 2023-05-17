@@ -1,0 +1,270 @@
+.label.label {
+  background-color: #45b26b;
+}
+.default {
+  color: #fcfcfd;
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.button.button {
+  left: 50%;
+  bottom: 16px;
+  top: initial;
+  transform: translateX(-50%);
+}
+.label2 {
+  color: #fcfcfd;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: bold;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iconsScatterUpLine.iconsScatterUpLine {
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.popular {
+  color: #45b26b;
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.avatar1.avatar1 {
+  width: 24px;
+  height: 24px;
+  outline: solid 2px #fcfcfd;
+  outline-offset: -2px;
+  border-radius: 36px;
+  background-color: #9757d7;
+}
+.austinWadeX6Uj51n5CE8Unsplash1.austinWadeX6Uj51n5CE8Unsplash1 {
+  top: -27.0836%;
+  bottom: -22.8981%;
+}
+.avatar2.avatar2 {
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  outline: solid 2px #fcfcfd;
+  outline-offset: -2px;
+  border-radius: 36px;
+  background-color: #ef466f;
+}
+.pexelsGabbyK52737171.pexelsGabbyK52737171 {
+  left: -1.3947%;
+  right: -1.3957%;
+  top: -22.9164%;
+  bottom: -31.2503%;
+}
+.avatar3.avatar3 {
+  left: 32px;
+  width: 24px;
+  height: 24px;
+  outline: solid 2px #fcfcfd;
+  outline-offset: -2px;
+  border-radius: 36px;
+}
+.austinWadeX6Uj51n5CE8Unsplash12.austinWadeX6Uj51n5CE8Unsplash12 {
+  top: -27.0836%;
+  bottom: -22.8981%;
+}
+.iconsCandlesticksUpLine.iconsCandlesticksUpLine {
+  width: 20px;
+  height: 20px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 256px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+}
+.productImg {
+  position: relative;
+  height: 303px;
+  align-self: stretch;
+  place-content: center;
+  align-items: center;
+  border-radius: 16px;
+  background-color: #353945;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #23262f;
+  overflow: hidden;
+}
+.labelAddToWishlist {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border-radius: 16px 16px 0 0;
+}
+.itemInfo {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  place-content: center;
+  gap: 12px;
+  padding: 20px 0;
+  border-radius: 0 0 16px 16px;
+}
+.titlePrice {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: center;
+}
+.amazingDigitalArt {
+  color: #23262f;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 184px;
+  height: min-content;
+  flex-direction: column;
+}
+.ownerCreatorCollection {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 12px;
+}
+.avatars {
+  position: relative;
+  height: 24px;
+  flex: 1;
+  align-items: flex-start;
+}
+._3InStock {
+  color: #353945;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.divider {
+  position: relative;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  border-radius: 1px;
+  background-color: #e6e8ec;
+  overflow: hidden;
+}
+.bid {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: center;
+}
+.highestBid {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 4px;
+}
+.highestBid2 {
+  color: #777e90;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._01ETH {
+  color: #353945;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.update {
+  width: min-content;
+  height: min-content;
+}
+.newBid {
+  color: #777e90;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}

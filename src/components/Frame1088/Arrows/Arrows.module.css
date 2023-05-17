@@ -1,0 +1,23 @@
+.iconsArrowRight2Line.iconsArrowRight2Line {
+  z-index: 0;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 8px;
+}
+.leftArrow {
+  width: min-content;
+  height: min-content;
+  padding: 8px;
+  border-radius: 40px;
+}
+.rightArrow {
+  width: min-content;
+  height: min-content;
+  padding: 8px;
+  outline: solid 2px #e6e8ec;
+  outline-offset: -2px;
+  border-radius: 40px;
+}

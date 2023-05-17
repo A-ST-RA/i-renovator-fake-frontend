@@ -1,0 +1,18 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 640px;
+  height: 800px;
+  align-items: flex-start;
+  border-radius: 16px;
+  background-color: #9757d7;
+  overflow: hidden;
+}
+.fuuJLo7venJ_ywMUnsplash1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -10.875%;
+  bottom: -10.8347%;
+}
